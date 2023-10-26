@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🍒
 
-<!--
-**jainacarol/jainacarol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Jaína Caroline
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+-  utilizo esse espaço para minha organização dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+jainacaroline0@gmail.com
+
+eu_jainacarol
+
+![](https://media.tenor.com/dlJSiLUJNmsAAAAM/math-calculate.gif)
